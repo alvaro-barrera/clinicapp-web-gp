@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clinicapp-web-gp/static/css/main.5857c59d.css",
-    "main.js": "/clinicapp-web-gp/static/js/main.28827730.js",
+    "main.js": "/clinicapp-web-gp/static/js/main.978ffdd6.js",
     "static/js/213.784b3c10.chunk.js": "/clinicapp-web-gp/static/js/213.784b3c10.chunk.js",
     "static/js/455.0b48aa92.chunk.js": "/clinicapp-web-gp/static/js/455.0b48aa92.chunk.js",
     "static/media/NftBanner1.png": "/clinicapp-web-gp/static/media/NftBanner1.87062366f75bedd52bd2.png",
@@ -26,12 +26,12 @@
     "index.html": "/clinicapp-web-gp/index.html",
     "static/media/checked.svg": "/clinicapp-web-gp/static/media/checked.6cb596af2bbf729dfac3.svg",
     "main.5857c59d.css.map": "/clinicapp-web-gp/static/css/main.5857c59d.css.map",
-    "main.28827730.js.map": "/clinicapp-web-gp/static/js/main.28827730.js.map",
+    "main.978ffdd6.js.map": "/clinicapp-web-gp/static/js/main.978ffdd6.js.map",
     "213.784b3c10.chunk.js.map": "/clinicapp-web-gp/static/js/213.784b3c10.chunk.js.map",
     "455.0b48aa92.chunk.js.map": "/clinicapp-web-gp/static/js/455.0b48aa92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5857c59d.css",
-    "static/js/main.28827730.js"
+    "static/js/main.978ffdd6.js"
   ]
 }
