@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/clinicapp-web-gp/static/css/main.5857c59d.css",
+    "main.js": "/clinicapp-web-gp/static/js/main.28827730.js",
+    "static/js/213.784b3c10.chunk.js": "/clinicapp-web-gp/static/js/213.784b3c10.chunk.js",
+    "static/js/455.0b48aa92.chunk.js": "/clinicapp-web-gp/static/js/455.0b48aa92.chunk.js",
+    "static/media/NftBanner1.png": "/clinicapp-web-gp/static/media/NftBanner1.87062366f75bedd52bd2.png",
+    "static/media/banner.png": "/clinicapp-web-gp/static/media/banner.ef572d78f29b0fee0a09.png",
+    "static/media/auth.webp": "/clinicapp-web-gp/static/media/auth.a5d2bfde3bb094526439.webp",
+    "static/media/Nft2.png": "/clinicapp-web-gp/static/media/Nft2.7897c45d2601ee3adfb5.png",
+    "static/media/avatar11.png": "/clinicapp-web-gp/static/media/avatar11.1060b63041fdffa5f8ef.png",
+    "static/media/avatar2.png": "/clinicapp-web-gp/static/media/avatar2.5692c39db4f8c0ea999e.png",
+    "static/media/avatar3.png": "/clinicapp-web-gp/static/media/avatar3.9f646ac5920fa40adf00.png",
+    "static/media/avatar1.png": "/clinicapp-web-gp/static/media/avatar1.eeef2af6dfcd3ff23cb8.png",
+    "static/media/Nft4.png": "/clinicapp-web-gp/static/media/Nft4.5fc37877b25c9fb9a52d.png",
+    "static/media/Nft3.png": "/clinicapp-web-gp/static/media/Nft3.3b3e6a4b3ada7618de6c.png",
+    "static/media/Nft6.png": "/clinicapp-web-gp/static/media/Nft6.9ff5403226e81a6fd390.png",
+    "static/media/avatar.webp": "/clinicapp-web-gp/static/media/avatar.2b83461f2045e2714ab0.webp",
+    "static/media/Navbar.png": "/clinicapp-web-gp/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/Nft1.png": "/clinicapp-web-gp/static/media/Nft1.0fea34cca5aed6cad72b.png",
+    "static/media/avatar4.png": "/clinicapp-web-gp/static/media/avatar4.54d5c1de851c273b2cd9.png",
+    "static/media/Nft5.png": "/clinicapp-web-gp/static/media/Nft5.62dbaf7dd91b4180035c.png",
+    "static/media/image1.png": "/clinicapp-web-gp/static/media/image1.5d02805328278985e71f.png",
+    "static/media/image3.png": "/clinicapp-web-gp/static/media/image3.847e2837e715cbf5e4cc.png",
+    "static/media/image2.png": "/clinicapp-web-gp/static/media/image2.556e407e0cd69698d537.png",
+    "index.html": "/clinicapp-web-gp/index.html",
+    "static/media/checked.svg": "/clinicapp-web-gp/static/media/checked.6cb596af2bbf729dfac3.svg",
+    "main.5857c59d.css.map": "/clinicapp-web-gp/static/css/main.5857c59d.css.map",
+    "main.28827730.js.map": "/clinicapp-web-gp/static/js/main.28827730.js.map",
+    "213.784b3c10.chunk.js.map": "/clinicapp-web-gp/static/js/213.784b3c10.chunk.js.map",
+    "455.0b48aa92.chunk.js.map": "/clinicapp-web-gp/static/js/455.0b48aa92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5857c59d.css",
+    "static/js/main.28827730.js"
+  ]
+}
